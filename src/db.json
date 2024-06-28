@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "55d8",
+      "name": "Tanay",
+      "email": "tanay@dice-academy.com",
+      "password": "123",
+      "number": 123
+    }
+  ]
+}
